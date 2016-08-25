@@ -1,0 +1,14 @@
+layout_spectrum: 0.21706347377039492
+typography_spectrum: 0.5742760351859033
+color:
+  brandStrength: 0.04913080669939518
+  lightness: 0.7562982633244246
+  saturation: 0.8612865118775517
+  rhythmicContrast: 0.1288015954196453
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: 'continuous rainbow '
