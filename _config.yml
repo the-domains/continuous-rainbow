@@ -12,3 +12,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
 name: 'continuous rainbow '
+navigation:
+  - name: 'Reduced Spoke Bicycles : Conceptual Bike'
+    id: 13e7684d-d12f-42e7-a507-2e97772cd5f5
+    type: content
